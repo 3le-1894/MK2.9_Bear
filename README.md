@@ -1,2 +1,2 @@
-# MK2.9_Bear
-Overbuilt MK3. Because why not.
+# MK2.9 Bear
+Overbuilt MK3. Why not?
